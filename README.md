@@ -4,6 +4,10 @@ Validation of Turkish Identification Number in golang
 
 [![GoDoc](https://godoc.org/github.com/aligoren/gotcvalidate?status.svg)](https://godoc.org/github.com/aligoren/gotcvalidate)
 
+The identification number is a unique 11-digit number given by the MERNIS computer on the basis of the citizen's registration record that is kept by the registration office. The number does not reflect any personal information about the citizen. It is not possible to change the identification number once applied.
+
+[![TIN](http://www.nvi.gov.tr/Files/Images/EN/Sorgu_TC.jpg)](http://www.nvi.gov.tr/Files/Images/EN/Sorgu_TC.jpg)
+
 #Usage:
 
 Check main file in test folder or follow this code:
