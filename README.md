@@ -2,6 +2,8 @@
 
 Validation of Turkish Identification Number in golang
 
+[![GoDoc](https://godoc.org/github.com/aligoren/gotcvalidate?status.svg)](https://godoc.org/github.com/aligoren/gotcvalidate)
+
 #Usage:
 
 Check main file in test folder or follow this code:
@@ -37,4 +39,12 @@ func main() {
     }
 }
 
+~~~~
+
+Run your test code
+
+~~~~{.shell}
+go run main.go
+
+True
 ~~~~
