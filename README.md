@@ -13,7 +13,7 @@ go get github.com/aligoren/gotcvalidate
 and import your project
 
 ~~~~{.go}
-import "github.com/aligoren/gotime"
+import "github.com/aligoren/gotcvalidate"
 ~~~~
 
 #Sample Usage:
