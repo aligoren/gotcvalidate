@@ -6,7 +6,7 @@ Validation of Turkish Identification Number in golang
 
 The identification number is a unique 11-digit number given by the MERNIS computer on the basis of the citizen's registration record that is kept by the registration office. The number does not reflect any personal information about the citizen. It is not possible to change the identification number once applied.
 
-[![TIN](http://www.nvi.gov.tr/Files/Images/EN/Sorgu_TC.jpg)](http://www.nvi.gov.tr/Files/Images/EN/Sorgu_TC.jpg)
+[www.nvi.gov.tr/English/Mernis_EN,Mernis_En.html?pageindex=1](www.nvi.gov.tr/English/Mernis_EN,Mernis_En.html?pageindex=1)
 
 #Usage:
 
